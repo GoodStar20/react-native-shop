@@ -20,3 +20,5 @@ Users are stored and authenticated through Firebase. User inputs are validated a
 <br>
 <br>
 <img  src="ios3.gif">
+<hr>
+<img  src="test.gif">
