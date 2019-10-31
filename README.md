@@ -6,8 +6,8 @@ Initially cart and orders are empty.
   <img  src="ios1.gif">
 </p>
 <hr>
-  Select products to add to the cart --
-  add or remove selected products
+  Select products to add to the cart,
+  add or remove selected products,
   then place the order, if already logged in.
   The order is stored in the Firebase database.
 
